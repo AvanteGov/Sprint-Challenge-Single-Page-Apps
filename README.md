@@ -1,4 +1,5 @@
 # Sprint Challenge: Single Page Applications
+https://rickandmortyapi.com/api/character/
 
 ## Rick & Morty Edition
 
@@ -26,6 +27,11 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ]  Explain benefit(s) using `client-side routing`?
+
+## ANSWER: 
+
+## client side routing allows for the application to be functionally efficient from the user's perspective. At the cost of a slower INITIAL load, users are able to navigate and operate the application with great ease and speed, as server requests will be limited to dynamic data calls since the application has already loaded all functional information on the device in the inital load. 
+
 
 > Answer:
 
