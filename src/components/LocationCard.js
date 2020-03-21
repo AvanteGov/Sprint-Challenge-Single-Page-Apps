@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 export default function LocationCard(props) {
   
-  console.log(props);
+  // console.log(props);
   
   const Card = styled.div `
     width: 80%;
